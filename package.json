@@ -1,0 +1,20 @@
+{
+  "name": "spring21",
+  "version": "0.0.1",
+  "description": "spring21 Seattle Academy Software Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/spring21.git"
+  },
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/spring21/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/spring21#readme"
+}
