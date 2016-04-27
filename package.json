@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/seattleacademy/spring21/issues"
   },
-  "homepage": "https://github.com/seattleacademy/spring21#readme"
+  "homepage": "https://github.com/seattleacademy/spring21#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "i2c-bus": "^1.0.2"
+  }
 }
